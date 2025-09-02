@@ -1,0 +1,1 @@
+This homework focuses on practicing the SQL LIKE function, which is used for pattern matching in string data. The goal is to understand how to filter records in a database based on text patterns and to learn how to handle case sensitivity in SQL queries.
